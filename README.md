@@ -1,1 +1,3 @@
 # Configurando-uma-instancia-no-Microsfot-Azure
+
+Ao criar uma instância no Microsoft Azure, aprendi a utilizar a plataforma de computação em nuvem da Microsoft para provisionar recursos virtuais. O processo envolveu a escolha de uma máquina virtual (VM), a seleção do sistema operacional, a configuração de parâmetros como tamanho, região e grupo de recursos, além da definição de regras de segurança e autenticação (como chaves SSH ou senha). Também entendi a importância do controle de custos, do gerenciamento via portal Azure e da escalabilidade oferecida pela nuvem, além de como monitorar o desempenho e o status da instância.
